@@ -11,23 +11,10 @@
 - Workshop Replay: https://www.aisummit.io/
 
 ## Table of Contents
+1. [About the Workshop](#About-the-workshop)
 1. [Prerequisites](#Prerequisites)
-1. [Your title](#Your-title)  
-  
-## Prerequisites
-  
-### **Sign-up/Login to IBM Cloud**
-
-If you are an existing user please [login to IBM Cloud](https://cloud.ibm.com/registration/trial?utm_medium=Inpersondirected&utm_content=000039JL&utm_term=10010797&utm_id=Nov2021-trustedaibuildexplainablemlmodelsusingaix360-eventid-615c4ea14260e2561c73986f-global-devadvgrp--franchise-workshop-online)
-
-And if you are not, don't worry! We have got you covered! There are 3 steps to create your account on [IBM Cloud](https://cloud.ibm.com/registration/trial?utm_medium=Inpersondirected&utm_content=000039JL&utm_term=10010797&utm_id=Nov2021-trustedaibuildexplainablemlmodelsusingaix360-eventid-615c4ea14260e2561c73986f-global-devadvgrp--franchise-workshop-online): <br>
-1 - Put your email and password. <br>
-2 - You get a verification link with the registered email to verify your account. <br>
-3 - Fill the personal information fields. <br>
-** Please make sure you select the country you are in when asked at any step of the registration process.
-  
-<img width="1188" alt="Screen Shot 2021-05-31 at 11 25 01 AM" src="https://user-images.githubusercontent.com/15332386/120156441-0769d980-c203-11eb-8cb3-29f4a8d5616a.png">
-
+1. [Architecture](#Architecture)  
+1. [Steps to Follow](#Steps-to-Follow)
 
 ## About the Workshop
 
@@ -61,6 +48,21 @@ Currently, AI explainability 360 toolkit provides eight state-of-the-art explain
 ![](https://github.com/IBM/unveiling-machine-fraud-prediction-decision-with-ai-explainability-360/blob/main/doc/source/images/aix360_2.png)
 
 In this Code Pattern, we will demonstrate the usage of AIX360 and how we can utilize different explainers to explain the decisions made by the machine learning model.
+
+## Prerequisites
+  
+### **Sign-up/Login to IBM Cloud**
+
+If you are an existing user please [login to IBM Cloud](https://cloud.ibm.com/registration/trial?utm_medium=Inpersondirected&utm_content=000039JL&utm_term=10010797&utm_id=Nov2021-trustedaibuildexplainablemlmodelsusingaix360-eventid-615c4ea14260e2561c73986f-global-devadvgrp--franchise-workshop-online)
+
+And if you are not, don't worry! We have got you covered! There are 3 steps to create your account on [IBM Cloud](https://cloud.ibm.com/registration/trial?utm_medium=Inpersondirected&utm_content=000039JL&utm_term=10010797&utm_id=Nov2021-trustedaibuildexplainablemlmodelsusingaix360-eventid-615c4ea14260e2561c73986f-global-devadvgrp--franchise-workshop-online): <br>
+1 - Put your email and password. <br>
+2 - You get a verification link with the registered email to verify your account. <br>
+3 - Fill the personal information fields. <br>
+** Please make sure you select the country you are in when asked at any step of the registration process.
+  
+<img width="1188" alt="Screen Shot 2021-05-31 at 11 25 01 AM" src="https://user-images.githubusercontent.com/15332386/120156441-0769d980-c203-11eb-8cb3-29f4a8d5616a.png">
+
 
 ## Architecture 
   
