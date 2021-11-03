@@ -18,7 +18,7 @@
 
 ## About the Workshop
 
-Imagine boarding the Titanic in 2021, and you have provided all your details as a passenger to the captain. There is are three people involved, the data scientist, captain and the passenger. Imagine the company who has built Titanic has created a machine ML model to predict the rate of survival of the passengers, in case of a disaster. The job of the data scientist is to make a model that is explainable to the passengers who are not technical, and that they get the answer about the reasons why they may not survive. 
+Imagine boarding the Titanic in 2021, and you have provided all your details as a passenger to the captain. There is are three people involved, the data scientist, captain, and the passenger. Imagine the company that has built Titanic, has created a machine ML model to predict the rate of survival of the passengers, in case of a disaster. The job of the data scientist is to make a model that is explainable to the passengers who are not technical, and that they get the answer about the reasons why they may not survive.
 
 After pondering upon these questions, you will agree that It’s not enough to make predictions. Sometimes, you need to generate a deep understanding. Just because you model something doesn’t mean you really know how it works. 
 
