@@ -156,7 +156,7 @@ In the ```Add a Notebook``` section, select the ```From URL``` option, select th
 
 Add the following notebook URL in the ```Notebook URL``` field:
 ```
-URL
+https://github.com/IBMDeveloperMEA/Trusted-AI-Build-Explainable-ML-Models-using-AIX360/blob/main/Titanic-aix360-v1.ipynb
 ```
 
 ### Step 5: Run the Notebook
