@@ -148,7 +148,9 @@ From IBM Watson Dashboard click on "Add to project" and select "Notebook"
 
 <img width="548" alt="11" src="https://user-images.githubusercontent.com/16270682/130228859-7f3ad65d-1e87-4ee3-beaf-562ebf60bbda.PNG">
 
-<img width="548" alt="11" src="/images/notebook_url.png">
+And then add the notebook using the URL using the steps below
+
+<img width="750" alt="10" src="/images/notebook_url.png">
 
 In the ```Add a Notebook``` section, select the ```From URL``` option, select the runtime as ```Default Python 3.7 XS (2 vCPU 8 GB RAM)```.
 
